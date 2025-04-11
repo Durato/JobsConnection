@@ -1,0 +1,206 @@
+.montserrat {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 20px;
+    font-style: normal;
+  }
+
+  .Jobimg {
+    position:absolute;
+    top: -94px;
+    right: 200px;
+}
+
+.fundo{
+    position: absolute;
+    border: 1px;
+    border-radius:50px;
+    width: 1750px;
+    height: 780px;
+    background: white;
+}
+
+.titulo{
+    font-family: Inter;
+    font-size: 40px;
+    position: absolute;
+    left: 100px;
+    top: 60px;
+    width: 50;
+}
+
+.loginsubtitulo{
+    font-family: "Montserrat", sans-serif;
+    font-size: 50px;
+    position: absolute;
+    left: 100px;
+    top: 150px;
+    width: 50;
+}
+
+.email{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    position: absolute;
+    left: 100px;
+    top: 290px;
+    width: 50;
+}
+
+.placeholderemail{
+    text-alig;
+    width: 300px;
+    border-radius: 5px;
+    height: 20px;
+    position: absolute;
+    left: 70px;
+    top: 350px;
+    border-radius: 20px;
+    border: none;
+    outline: 1.5px solid black;
+}
+
+.senha{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    position: absolute;
+    left: 98px;
+    top: 370px;
+    width: 50;
+}
+
+.placeholdersenha{
+    position: absolute;
+    left: 70px;
+    top: 430px;
+    width: 300px;
+    height: 20px;
+    border-radius: 20px;
+    border: none;
+    outline: 1.5px solid black;
+}
+
+.esqueceusenha{
+    font-family: Inter;
+    position: absolute;
+    left: 220px;
+    bottom: 285px;
+    width: 50;
+}
+
+.esqueceusenhaclicavel {
+    text-decoration: none;
+  }
+
+.botaologin{
+    position: absolute;
+    left: 172px;
+    top: 450px;
+    width:170px;
+    height:40px;
+    border:none;
+    border-radius:5px;
+    font-size:20px;
+    font-weight:600;
+    color:#fff;
+    background-color:#EA7BB0;
+    box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.7);
+    top: 500px;
+    left: 70px;
+    width: 300px;
+    height: 40px;
+    font-size: 22px;
+    font-family: Inter;
+    font-weight: 1;
+    border:none;
+    border-radius: 20px;
+    background-color: #EA7BB0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.botaologin:hover{
+
+    background-color: #fa84bd;
+
+    Color: #fff;
+
+    
+}
+
+.botaogoogle{
+    position: absolute;
+    top: 570px;
+    left: 70px;
+    width: 300px;
+
+    height: 40px;
+
+    font-size: 22px;
+
+    font-family: Inter;
+    font-weight: 1;
+    border:none;
+
+    border-radius: 20px;
+
+    background-color: #ffffff;
+
+    
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    outline: 1.5px solid black;
+    box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.7); 
+}
+
+.fa-google {
+    position: absolute;
+    background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+    background-clip: text;
+    color: transparent;
+    bottom: 152px;
+    left: 80px;
+  }
+
+
+.botaogoogle:hover{
+
+    background-color: #e2e2e2;
+
+    Color: #000000;
+
+    
+}
+
+.botaocadastro{
+    text-decoration: none;
+    font-family: Inter;
+    position: absolute;
+    left: 100px;
+    bottom: 70px;
+    width: 50;
+
+
+}
+
+.cadastroclicavel {
+    text-decoration: none;
+  }
+
+
+
+
+
+
+ 
+
+  
+
